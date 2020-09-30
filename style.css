@@ -840,12 +840,14 @@
 }
 
 .footermain a {
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-size: 25px;
     padding: 60px;
 }
 
 .footer2nd {
+    color: rgb(255, 255, 255);
     position: absolute;
     left: 0;
     right: 0;
